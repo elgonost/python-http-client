@@ -4,7 +4,7 @@ import logging
 from .exceptions import handle_error
 
 try:
-    # Python 3
+    # Python 3 asdasd
     import urllib.request as urllib
     from urllib.parse import urlencode
     from urllib.error import HTTPError
